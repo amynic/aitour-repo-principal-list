@@ -13,11 +13,17 @@ Ready to join this innovation revolution? Visit the [Microsoft AI Tour website](
 ## Azure AI Foundry Developer Community 
 
 👩‍💻👨‍💻 Great devs don’t build alone. ⏱️ In a fast-paced dev world, there’s no time to hunt for help. 
+
 That’s why we created the Azure AI Foundry Developer Community — your one-stop hub for: 
+
 🌐 A vibrant forum for Q&A + code 
+
 🎙️ DevBlogs with the latest updates 
+
 🎮 Real-time Discord chats, events & learning 
+
 🔗 Join the [Azure AI Foundry Developer Forum](https://aka.ms/azureaifoundry/forum) | Hop on the [Azure AI Foundry Discord server](https://aka.ms/azureaifoundry/discord)
+
 
 ## Breakout Sessions and Workshops
 
