@@ -10,10 +10,14 @@ This free, one-day and in-person experience offers AI thought leadership, sessio
 
 Ready to join this innovation revolution? Visit the [Microsoft AI Tour website](https://aitour.microsoft.com/) and request to attend the Tour when it comes to your city.
 
-## Microsoft AI Discord Community 
-Join our Microsoft AI Discord community to continue the discussion and learning 
+## Azure AI Foundry Developer Community 
 
-[![Azure AI Community Discord](https://dcbadge.vercel.app/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4?WT.mc_id=aiml-00001-leestott)
+👩‍💻👨‍💻 Great devs don’t build alone. ⏱️ In a fast-paced dev world, there’s no time to hunt for help. 
+That’s why we created the Azure AI Foundry Developer Community — your one-stop hub for: 
+🌐 A vibrant forum for Q&A + code 
+🎙️ DevBlogs with the latest updates 
+🎮 Real-time Discord chats, events & learning 
+🔗 Join the [Azure AI Foundry Developer Forum](https://aka.ms/azureaifoundry/forum) | Hop on the [Azure AI Foundry Discord server](https://aka.ms/azureaifoundry/discord)
 
 ## Breakout Sessions and Workshops
 
